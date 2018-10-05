@@ -9,5 +9,5 @@ References:
 [1] [DNA methylation: a profile of mehods and applications.](https://www.ncbi.nlm.nih.gov/pubmed/12238773) \
 [2] [A genomic sequencing protocol that yields a positive display of 5-methylcytosine residues in individual DNA strands.](https://www.ncbi.nlm.nih.gov/pubmed/1542678) \
 [3] [Bisulfite beginner's guide](https://www.zymoresearch.eu/bisulfite-beginner-guide) \
-[4] [DNA methylation detection: Bisulfite genomic sequencing analysis] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3233226) \
-[5] [Quantitative high-throughput analysis of DNA methylation patterns by base-specific cleavage and mass spectrometry] (http://www.pnas.org/content/102/44/15785.long) \
+[4] [DNA methylation detection: Bisulfite genomic sequencing analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3233226) \
+[5] [Quantitative high-throughput analysis of DNA methylation patterns by base-specific cleavage and mass spectrometry](http://www.pnas.org/content/102/44/15785.long)
